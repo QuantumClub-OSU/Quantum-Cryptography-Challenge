@@ -1,0 +1,12 @@
+{
+  "ciphertext_hex": "c7887ab5cb5abc56ffb8e020a690e68a0ea3672f083c6c5b3f17d45ebaf5d482ee0e31",
+  "method": "XOR with the reconciled key of the clean link",
+  "public_parameters": {
+    "links": [
+      "link_A",
+      "link_B"
+    ],
+    "n_qubits": 1024
+  },
+  "tier": 2
+}

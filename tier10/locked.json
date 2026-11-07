@@ -1,0 +1,13 @@
+{
+  "ciphertext_hex": "bb8657a6d1af9379ff1aa9fa956410401d6c1441ebcce37c9c4a3ed202f3ed860ab5e23cf2838f52d39cfed1666bf21ada6b7b1b056e6e72",
+  "method": "Diffie-Hellman shared secret, SHA-256 keystream XOR",
+  "public_parameters": {
+    "A": 11,
+    "B": 49,
+    "g": 3,
+    "key_width_bits": 7,
+    "order": 41,
+    "p": 83
+  },
+  "tier": 10
+}

@@ -1,0 +1,9 @@
+{
+  "ciphertext_hex": "7e3e739458f49a7b4d3f2738db28aeaae4af51c33ecbf9297003d48db76c5b67da01ef472f732bfd70a248537b0002d39667522f62bfe4ffa3353b",
+  "method": "toy byte cipher, 10-bit key",
+  "public_parameters": {
+    "key_bits": 10,
+    "known_prefix": "QC-05:"
+  },
+  "tier": 5
+}

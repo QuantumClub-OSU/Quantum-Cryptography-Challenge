@@ -1,0 +1,11 @@
+{
+  "ciphertext_hex": "8d44e1a792c65c9a05b46df522e58a2ee38c548a654be18dd51f5dc03debd9682fa9e16a68a40e663fbef5d59fbcbb175c308e801c4da65a",
+  "method": "RSA-wrapped key, SHA-256 keystream XOR",
+  "public_parameters": {
+    "N": 35,
+    "e": 5,
+    "key_width_bits": 6,
+    "wrapped_key": 23
+  },
+  "tier": 8
+}

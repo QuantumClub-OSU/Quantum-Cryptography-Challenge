@@ -1,0 +1,9 @@
+{
+  "ciphertext_hex": "e5810fe62bce777bbff9dc13618f0fa8d1de110662664575ecb1ec9bb8e4157eb7a5844dcac4eb6c30629478ab08999b4484194396e84daeac5d",
+  "method": "SHA-256 keystream XOR, 24-bit key",
+  "public_parameters": {
+    "n_inputs": 6,
+    "n_oracles": 24
+  },
+  "tier": 3
+}

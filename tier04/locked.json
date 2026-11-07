@@ -1,0 +1,8 @@
+{
+  "ciphertext_hex": "39c706dc472a21a11c6b0db26656eabc1ce437485a38cc4f046457fdca0854f6bd15c0c8ea47353ff5cf9a9f505b4757e537b7da247905",
+  "method": "SHA-256 keystream XOR, 10-bit key",
+  "public_parameters": {
+    "n": 10
+  },
+  "tier": 4
+}

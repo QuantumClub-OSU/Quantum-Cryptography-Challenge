@@ -1,0 +1,8 @@
+{
+  "ciphertext_hex": "45e260e4f265f23ef537195a1737a2cfea47bd334260f5dc383db776122fd84676f5f18cff1230a6302dd62f4d3c794f9e8fa31ac3c06868dabb41",
+  "method": "SHA-256 keystream XOR, 14-bit key",
+  "public_parameters": {
+    "key_bits": 14
+  },
+  "tier": 7
+}

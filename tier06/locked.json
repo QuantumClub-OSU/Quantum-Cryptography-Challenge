@@ -1,0 +1,10 @@
+{
+  "ciphertext_hex": "60e207b38d904240538679c35cdbb1f89c786e956df9fa65ec817e5c054d5a85361dc7dca2c2077c07492404607c902e9ce5e18b4d2ae2990cbce2",
+  "method": "toy byte cipher, 14-bit key",
+  "public_parameters": {
+    "checksum": 221,
+    "key_bits": 14,
+    "known_prefix": "Q"
+  },
+  "tier": 6
+}
